@@ -1,0 +1,18 @@
+2021-10-01 08:39:59.379 20708-20708/? E/local_data: en
+2021-10-01 08:39:59.384 20708-20708/? E/layout size: 2
+2021-10-01 08:40:21.221 20708-20708/com.alttb.quiztr E/local_data: en
+2021-10-01 08:40:21.238 20708-20708/com.alttb.quiztr E/MainActivity: Firebase reg id: null
+2021-10-01 08:40:21.238 20708-20708/com.alttb.quiztr E/MainActivity: Firebase Reg Id is not received yet!
+2021-10-01 08:40:21.254 20708-20708/com.alttb.quiztr E/interstital_ad: no
+2021-10-01 08:40:21.254 20708-20708/com.alttb.quiztr E/fb_interstiatial_status: off
+2021-10-01 08:40:22.150 20708-20708/com.alttb.quiztr E/local_data: en
+2021-10-01 08:40:25.504 20708-20708/com.alttb.quiztr E/==>deviceToken: dKHMm8tgQSKm_43070apVs:APA91bGqqieZHlEyMoBUAwF04qBkrKj9Uw6D04LFMwRNjsioaReVPqEZsYkJ8X_u4DSCss91Xq5UW1GUaI8O80sU9gYF2HBo-lcUNmi21CIzFXS_e4lcRjJrqJMFHEbYCsmfdDZs6Umf
+2021-10-01 08:40:25.958 20708-20708/com.alttb.quiztr E/Throwable: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 1 path $
+2021-10-01 08:40:30.671 20708-20708/com.alttb.quiztr E/==>deviceToken: dKHMm8tgQSKm_43070apVs:APA91bGqqieZHlEyMoBUAwF04qBkrKj9Uw6D04LFMwRNjsioaReVPqEZsYkJ8X_u4DSCss91Xq5UW1GUaI8O80sU9gYF2HBo-lcUNmi21CIzFXS_e4lcRjJrqJMFHEbYCsmfdDZs6Umf
+2021-10-01 08:40:31.329 20708-20708/com.alttb.quiztr E/Throwable: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 1 path $
+2021-10-01 08:41:06.632 20708-20708/com.alttb.quiztr E/gMail: perform
+2021-10-01 08:41:10.634 20708-20708/com.alttb.quiztr E/ApiException: signInResult:failed code = 10
+2021-10-01 08:41:37.173 20708-20708/com.alttb.quiztr E/Visible Password: 1234mesut
+2021-10-01 08:41:46.272 20708-20708/com.alttb.quiztr E/==>deviceToken: dKHMm8tgQSKm_43070apVs:APA91bGqqieZHlEyMoBUAwF04qBkrKj9Uw6D04LFMwRNjsioaReVPqEZsYkJ8X_u4DSCss91Xq5UW1GUaI8O80sU9gYF2HBo-lcUNmi21CIzFXS_e4lcRjJrqJMFHEbYCsmfdDZs6Umf
+2021-10-01 08:41:46.958 20708-20708/com.alttb.quiztr E/Throwable: Use JsonReader.setLenient(true) to accept malformed JSON at line 2 column 1 path $
+2021-10-01 08:42:48.600 20708-22470/com.alttb.quiztr E/OneSignal: Error updating the user record because of th enull user id
